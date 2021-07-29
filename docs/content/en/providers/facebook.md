@@ -1,11 +1,11 @@
 ---
 title: Facebook
 description: This provider is based on oauth2 scheme and supports all scheme options
-position: 32
+position: 33
 category: Providers
 ---
 
-[Source Code](https://github.com/nuxt-community/auth-module/blob/dev/src/providers/facebook/index.ts)
+[Source Code](https://github.com/nuxt-community/auth-module/blob/dev/src/providers/facebook.ts)
 
 ## Usage
 

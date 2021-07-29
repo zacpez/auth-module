@@ -1,11 +1,11 @@
 ---
 title: Laravel Sanctum
 description: This provider is for the Laravel Sanctum
-position: 37
+position: 38
 category: Providers
 ---
 
-[Source Code](https://github.com/nuxt-community/auth-module/blob/dev/src/providers/laravel/sanctum.ts)
+[Source Code](https://github.com/nuxt-community/auth-module/blob/dev/src/providers/laravel-sanctum.ts)
 
 Laravel Sanctum provides a featherweight authentication system for SPAs (single page applications), mobile applications, and simple, token based APIs. Sanctum allows each user of your application to generate multiple API tokens for their account. These tokens may be granted abilities / scopes which specify which actions the tokens are allowed to perform. ([Read More](https://laravel.com/docs/8.x/sanctum))
 
